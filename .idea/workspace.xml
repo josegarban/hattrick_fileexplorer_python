@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bccd6e5-35aa-42df-bc61-57aba0fc58ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR2/v1.ABR2.1/annotation/BdistachyonABR2_337_v1.ABR2.1.annotation_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR3/v1.ABR3.1/annotation/BdistachyonABR3_343_v1.ABR3.1.annotation_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR4/v1.ABR4.1/annotation/BdistachyonABR4_364_v1.ABR4.1.annotation_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR5/v1.ABR5.1/annotation/BdistachyonABR5_379_v1.ABR5.1.annotation_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR6/v1.ABR6/annotation/BdistachyonABR6_336_v1.ABR6_r.1.annotation_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR7/v1.ABR7.1/annotation/BdistachyonABR7_369_v1.ABR7.1.annotation_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR8/v1.ABR8.1/annotation/BdistachyonABR8_356_v1.ABR8.1.annotation_info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genomas/BdistachyonABR9/v1.ABR9/annotation/BdistachyonABR9_333_v1.ABR9_r.1.annotation_info.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
